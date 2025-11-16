@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently a BCIT CST student<br>Actively learning and building full-stack applications<br>Always looking for internships and exciting job opportunities<br>Love attending hackathons and creating cool projects 💡🚀<br>Hobbies include sports, video games, and chess ♟️<br>Connect with me on LinkedIn! → https://www.linkedin.com/in/stanislav-rudenko-702544366/<br>Check out my DevPost! → https://devpost.com/StanislavRudenkoko
+Currently a BCIT CST student<br>Actively learning and building full-stack applications<br>Always looking for internships and exciting job opportunities<br>Love attending hackathons and creating cool projects 💡🚀<br>Hobbies include sports, video games, and chess ♟️<br>Connect with me on LinkedIn! → https://www.linkedin.com/in/stanislav-rudenko-bcit/<br>Check out my DevPost! → https://devpost.com/StanislavRudenkoko
 
 
 # 💻 Tech Stack:
